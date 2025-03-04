@@ -2,8 +2,6 @@
 
 Feb 2021 - Dec 2022
 
-Rigid body dynamics, collision detection, collision response, triangulation
-
 This program handles collision detection and rigid body dynamics of objects made out of segments and convex and concave arcs, which allow very complex 2D shapes.
 Given a shape, it also triangulates it in order to calculate its mass and moment of inertia and to draw the inside of the object.
 
